@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;767_SPI_ILI9341_2/Core/Src/am2030&apos;" deleteContents="false" description="Delete resource &apos;767_SPI_ILI9341_2/Core/Src/am2030&apos;" element1="/767_SPI_ILI9341_2/Core/Src/am2030" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1708327929081"/>
+</session>

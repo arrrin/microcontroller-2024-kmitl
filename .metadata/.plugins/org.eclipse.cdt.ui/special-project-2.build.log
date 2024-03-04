@@ -1,0 +1,10 @@
+15:00:10 **** Build of configuration Debug for project special-project-2 ****
+make -j12 all 
+arm-none-eabi-size  special-project-2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5180	     20	   1572	   6772	   1a74	special-project-2.elf
+Finished building: default.size.stdout
+ 
+
+15:00:10 Build Finished. 0 errors, 0 warnings. (took 266ms)
+
